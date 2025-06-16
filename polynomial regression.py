@@ -15,3 +15,4 @@ plt.title("Generated Data")
 plt.xlabel("X")
 plt.ylabel("y")
 plt.show()
+
