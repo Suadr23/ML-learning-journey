@@ -24,7 +24,6 @@ plt.scatter(X[:, 0], y, c=y, cmap='bwr', alpha=0.5)
 plt.plot(x_test, y_lin, color='green', label='Linear Regression')
 
 plt.plot(x_test, y_prob, color='black', label='Logistic Regression Probability')
-
 plt.xlabel('Feature 1')
 plt.ylabel('Target / Probability')
 plt.legend()
